@@ -1,0 +1,21 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Jupyter
+.jupyter-runtime/
+*.txt
+
+# YOLO model weights (large files)
+*.pt
+
+# Training runs
+runs/
+
+# Dataset cache
+*.cache
+
+# OS
+.DS_Store
+Thumbs.db
